@@ -1,0 +1,10 @@
+
+# Problema a resolver {#planteamiento}
+
+## Baseline:Junio 2020
+
+## Problema de ciencia de datos
+
+## Metas
+
+Creación de una herramienta estandarizada.
